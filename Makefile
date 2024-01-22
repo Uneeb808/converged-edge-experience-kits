@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: Apache-2.0
 # Copyright (c) 2021 Intel Corporation
-
+#test
 # Provide `ANSIBLE_LINT_VERBOSITY=-v make ansible-lint` to enable verbose output.
 # Switch required to verify CI.
 ANSIBLE_LINT_ARGS?=
